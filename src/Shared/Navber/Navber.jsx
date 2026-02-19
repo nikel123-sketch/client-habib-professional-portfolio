@@ -118,7 +118,7 @@ const Navber = () => {
 
               <div>
                 <h1 className="font-bold text-lg text-white">
-                  Md. Habib Hasan
+                  Habib
                 </h1>
 
                 <p className="text-xs text-blue-400">

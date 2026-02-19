@@ -12,10 +12,10 @@ const Navber = () => {
   // links
   const links = [
     { name: "Home", path: "/" },
-    { name: "About Me", path: "/about" },
+    { name: "About Me", path: "/About" },
     { name: "Skills", path: "/skills" },
     { name: "Experience", path: "/experience" },
-    { name: "Certifications", path: "/certifications" },
+    // { name: "Certifications", path: "/certifications" },
     { name: "Contact", path: "/contact" },
   ];
 

@@ -4,7 +4,7 @@ import { NavLink } from "react-router";
 import { AnimatePresence, motion } from "framer-motion";
 
 // client photo
-import clientPhoto from "../../assets/md nikel ali.jpg";
+import clientPhoto from "../../assets/2.png";
 
 const Navber = () => {
   const [open, setOpen] = useState(false);
